@@ -1,6 +1,6 @@
 {
   "name": "teamcity-build-number-cli",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Outputs version from package.json in TeamCity service message format",
   "main": "src/api.js",
   "bin": {
